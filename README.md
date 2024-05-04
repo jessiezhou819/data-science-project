@@ -1,4 +1,4 @@
 # data-science-project
 
-Check out our report here:
-[file:///Users/jiaqizhou/Downloads/report.html]
+Check out our report
+<a href="file:///Users/jiaqizhou/Downloads/report.html">HERE</a>
